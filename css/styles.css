@@ -46,3 +46,7 @@ img {
   border-style: solid;
   border-color: #B0E0E6;
 }
+
+.jumbotron h1 {
+  text-shadow: 3px 3px #7FFFD4
+}
