@@ -8,7 +8,7 @@
 
 ## _Installation_
 
-_Click on this link [Vacation Revelations] (https://timdevlin.github.io/Independent/) to view this webpage_
+_Click on this link [Vacation Revelations] (https://timdevlin.github.io/Independent2/) to view this webpage_
 
 ## _Known Bugs_
 
